@@ -1,24 +1,5 @@
 # OES
 
-## Getting Started
-
-* [OES_v9.py](./OES_v9.py) DO STH.
-
-
-
-## Installation (tested with python version 3.?)
-
-* Following packages are needed:
-	
-    pip install **
-    pip install **
-
-## Usage
-**how to start using
-
-
-	python ./OES_v9.py
-  
 ## Related Publications
 
 * Abd Nikooie Pour M, Li H, Armiento R, Lambrix P, A First Step towards a Tool for Extending Ontologies, 6th International Workshop on Visualization and Interaction for Ontologies and Linked Data, Virtual Workshop, 2021. [post-print](https://www.ida.liu.se/~patla00/publications/VOILA2021-extending-ontologies.pdf)

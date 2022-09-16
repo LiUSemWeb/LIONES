@@ -17,7 +17,7 @@
 **how to start using
 
 
-	python ./OES_v9.py.py
+	python ./OES_v9.py
   
 ## Related Publications
 

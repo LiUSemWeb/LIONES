@@ -5,11 +5,11 @@
 
 * Following packages are needed and successfully installed messages are shown:
 
-
-
+[//]: # "--""
+[//]: # "--"
 	
 	
-    pip install fuzzywuzzy
+     pip install fuzzywuzzy
     pip install stemming
     pip install xlwt
     pip install networkx

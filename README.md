@@ -1,7 +1,7 @@
 # LIONES (Linköping Ontology Extension System)
 
 
-## Installation (tested with python version 3.9)
+## Installation (tested with python version 3.7)
 
 * Following packages are needed and successfully installed messages are shown:
 
@@ -18,6 +18,10 @@
     pip install owlready2
     pip install matplotlib
 
+## Usage
+
+
+	python ./OES_v9.py 
 
 ## Related Publications
 

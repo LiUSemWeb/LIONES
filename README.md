@@ -4,8 +4,8 @@
 ## Installation (tested with python version 3.9)
 
 * Following packages are needed and successfully installed messages are shown:
-	
-	
+
+
     pip install fuzzywuzzy
     pip install stemming
     pip install xlwt

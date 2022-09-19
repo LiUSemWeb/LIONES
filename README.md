@@ -5,7 +5,12 @@
 
 * Following packages are needed and successfully installed messages are shown:
 
-
+[//]: # "python -m pip install \"graphql-core>=3\""
+[//]: # "GraphQL-core 3 can be installed from PyPI using the built-in pip command:"
+	
+	
+    pip install ariadne
+    pip install Flask
     pip install fuzzywuzzy
     pip install stemming
     pip install xlwt

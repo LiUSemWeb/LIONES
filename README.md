@@ -1,5 +1,21 @@
 # LIONES (Linköping Ontology Extension System)
 
+
+## Installation (tested with python version 3.9)
+
+* Following packages are needed and successfully installed messages are shown:
+	
+	
+    pip install fuzzywuzzy
+    pip install stemming
+    pip install xlwt
+    pip install networkx
+    pip install rdflib
+    pip install pyvis
+    pip install owlready2
+    pip install matplotlib
+
+
 ## Related Publications
 
 * Abd Nikooie Pour M, Li H, Armiento R, Lambrix P, A First Step towards a Tool for Extending Ontologies, 6th International Workshop on Visualization and Interaction for Ontologies and Linked Data, Virtual Workshop, 2021. [post-print](https://www.ida.liu.se/~patla00/publications/VOILA2021-extending-ontologies.pdf)

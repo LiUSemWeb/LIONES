@@ -1,4 +1,4 @@
-# OES
+# LIONES (Linköping Ontology Extension System)
 
 ## Related Publications
 

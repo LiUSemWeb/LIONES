@@ -1,4 +1,4 @@
-# LIONES (Linköping Ontology Extension System)
+# phrase2onto
 
 
 ## Installation (tested with python version 3.7)

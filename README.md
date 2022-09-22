@@ -23,6 +23,8 @@
 
 	python ./OES_v9.py 
 
+## User Manual (a user manual of phrase2onto will be added by this month)
+
 ## Related Publications
 
 * Abd Nikooie Pour M, Li H, Armiento R, Lambrix P, A First Step towards a Tool for Extending Ontologies, 6th International Workshop on Visualization and Interaction for Ontologies and Linked Data, Virtual Workshop, 2021. [post-print](https://www.ida.liu.se/~patla00/publications/VOILA2021-extending-ontologies.pdf)

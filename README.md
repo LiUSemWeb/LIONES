@@ -23,7 +23,8 @@
 
 	python ./OES_v9.py 
 
-## User Manual (a user manual of phrase2onto will be added by this month)
+## User Manual
+* The user manual video is available as [Phrase2Onto_UserManual.mp4](https://github.com/LiUSemWeb/phrase2onto/Phrase2Onto_UserManual.mp4).
 
 ## Related Publications
 

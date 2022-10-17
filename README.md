@@ -24,7 +24,7 @@
 	python ./OES_v9.py 
 
 ## User Manual
-* The user manual video is available as [Phrase2Onto_UserManual.mp4](https://github.com/LiUSemWeb/phrase2onto/Phrase2Onto_UserManual.mp4).
+* The user manual video is available as [Phrase2Onto_UserManual.mp4](https://github.com/LiUSemWeb/phrase2onto/blob/main/Phrase2Onto_UserManual.mp4).
 
 ## Related Publications
 

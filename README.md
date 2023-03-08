@@ -3,7 +3,7 @@
 
 ## Information
 * This version of Phrase2Onto was used in the SWJ (Semantic Web Journal) paper.
-* Regarding the inputs of the system, this version only deals with freauent phrases file and no topics.
+* Regarding the inputs of the system, this version only deals with phrases file and no topics.
 
 ## Installation (tested with python version 3.7)
 
@@ -31,6 +31,8 @@
 * The user manual video is available as [Phrase2Onto_demo.mp4](https://github.com/LiUSemWeb/phrase2onto/blob/main/Phrase2Onto_demo.mp4).
 
 ## Related Publications
+
+* Lambrix P, Armiento R, Li H, Hartig O, Abd Nikooie Pour M, Li Y, 'The Materials Design Ontology', the Semantic Web Journal, 2023, [post-print](https://www.semantic-web-journal.net/system/files/swj3340.pdf)
 
 * Abd Nikooie Pour M, Li H, Armiento R, Lambrix P, A First Step towards a Tool for Extending Ontologies, 6th International Workshop on Visualization and Interaction for Ontologies and Linked Data, Virtual Workshop, 2021. [post-print](https://www.ida.liu.se/~patla00/publications/VOILA2021-extending-ontologies.pdf)
 

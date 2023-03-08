@@ -1,6 +1,10 @@
 # phrase2onto
 
 
+## Information
+*This version of Phrase2Onto was used in the SWJ (Semantic Web Journal) paper.
+*Regarding the inputs of the system, this version only deals with freauent phrases file and no topics.
+
 ## Installation (tested with python version 3.7)
 
 * Following packages are needed:

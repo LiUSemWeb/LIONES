@@ -1,0 +1,17 @@
+Hawaiian pizza
+Philly cheesesteak pizza
+Buffalo chicken pizza
+BBQ chicken pizza
+Tex-Mex pizza
+Mediterranean pizza
+Caprese pizza
+Greek pizza
+Margherita pizza
+Sicilian pizza
+Neapolitan pizza
+New York-style pizza
+Chicago-style pizza
+California-style pizza
+Detroit-style pizza
+St. Louis-style pizza
+White pizza

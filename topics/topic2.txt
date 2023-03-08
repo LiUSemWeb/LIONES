@@ -1,0 +1,15 @@
+Pepperoni
+Sausage
+Bacon
+Ham
+Anchovies
+Chicken
+Meatball
+Salami
+Canadian bacon
+Prosciutto
+Steak
+Chorizo
+Vegan sausage
+Vegan pepperoni
+Vegan bacon

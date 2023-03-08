@@ -1,0 +1,246 @@
+Margherita
+Pepperoni
+Hawaiian
+Meat lovers
+Four cheese
+Veggie lovers
+BBQ chicken
+Mushroom
+Sausage
+Bacon and egg
+Buffalo chicken
+Pesto
+Greek
+Supreme
+Philly cheesesteak
+White pizza
+Chicken alfredo
+Spinach and feta
+Italian sausage and pepper
+Mediterranean
+Garlic and herb
+Caprese
+Taco pizza
+Roasted vegetable
+Shrimp scampi
+Bacon cheeseburger
+Prosciutto and arugula
+Broccoli and cheddar
+Clam pizza
+Reuben pizza
+Philly cheese steak
+Barbecue pork
+Tuna
+Lobster
+Seafood
+Steak and cheese
+Smoked salmon
+Truffle
+Artichoke
+Sun-dried tomato
+Pineapple and ham
+Fajita
+Roasted garlic
+S'mores pizza
+Apple and brie
+Pear and gorgonzola
+Fig and prosciutto
+Caramelized onion
+Chicken parmesan
+Meatball
+Chili
+Buffalo chicken ranch
+Eggplant parmesan
+Peking duck
+Duck confit
+Sweet potato
+Corn and black bean
+Philly cheesesteak
+Lobster bisque
+Carbonara
+Clams casino
+Brussels sprouts
+Tandoori chicken
+Butter chicken
+Sausage and sauerkraut
+Sauerkraut and corned beef
+Bacon-wrapped scallops
+Roasted beet
+Prosciutto and melon
+Breakfast pizza
+California pizza
+Chicken tikka masala
+Shrimp and pesto
+Blue cheese and pear
+Grilled chicken
+Sweet and spicy chicken
+Lemon chicken
+Buffalo chicken bacon ranch
+Wild mushroom and truffle
+Jerk chicken
+Kimchi
+Bulgogi
+Spicy tuna
+Crab Rangoon
+Lobster roll
+Grilled vegetable
+Falafel
+Goulash
+Paella
+Chicken shawarma
+Meatball sub
+Grilled cheese pizza
+Chicken gyro
+Cuban sandwich
+Banh mi
+Pad Thai
+Ratatouille
+Chicken cordon bleu
+Chicken Caesar
+BLT pizza
+Shrimp and grits
+Chicken and waffles
+Fried chicken
+General Tso's chicken
+Hunan chicken
+Kung Pao chicken
+Orange chicken
+Sweet and sour chicken
+Mongolian beef
+Beef and broccoli
+Teriyaki chicken
+Yakitori
+Bulgogi beef
+Kalbi beef
+Pork katsu
+Tonkatsu
+Okonomiyaki
+Takoyaki
+Sushi pizza
+Frito pie pizza
+Taco salad
+Pepperoni
+Sausage
+Mushrooms
+Onions
+Bacon
+Extra cheese
+Black olives
+Green peppers
+Pineapple
+Ham
+Tomato
+Anchovies
+Garlic
+Spinach
+Jalapeños
+Bell peppers
+Feta cheese
+Chicken
+Meatball
+Ricotta cheese
+Artichoke
+Sun-dried tomatoes
+Pesto sauce
+Broccoli
+Shrimp
+Salami
+Eggplant
+Goat cheese
+Red onion
+Cheddar cheese
+Canadian bacon
+Prosciutto
+Blue cheese
+Basil
+Capers
+Gorgonzola cheese
+Steak
+Tuna
+Clams
+Corn
+Peperoncini
+Sliced tomatoes
+Caramelized onions
+Roasted red peppers
+Zucchini
+BBQ sauce
+Sriracha sauce
+Ranch dressing
+Buffalo sauce
+Alfredo sauce
+Kalamata olives
+Chorizo
+Pepperoncini
+Poblano peppers
+Chives
+Cilantro
+Scallions
+Pears
+Ricotta cheese
+Sliced almonds
+Fig jam
+Honey
+Pine nuts
+Gouda cheese
+Fontina cheese
+Gruyere cheese
+Brie cheese
+Goat cheese
+Parmesan cheese
+Pecorino cheese
+Mozzarella cheese
+Swiss cheese
+Asiago cheese
+Romano cheese
+Red pepper flakes
+Basil pesto
+Sunflower seeds
+Sesame seeds
+Walnuts
+Arugula
+Baby spinach
+Watercress
+Mustard greens
+Endive
+Radicchio
+Frisée
+Escarole
+Beet greens
+Swiss chard
+Kale
+Collard greens
+Broccoli rabe
+Cauliflower
+Brussel sprouts
+Egg
+Tofu
+Vegan cheese
+Vegan sausage
+Vegan pepperoni
+Vegan bacon
+Avocado
+Fennel
+Roasted garlic
+Chipotle peppers
+Mango
+Cucumber
+Cumin
+Coriander
+Turmeric
+Curry powder
+Ginger
+Lemongrass
+Cinnamon
+Nutmeg
+Allspice
+Cardamom
+Cloves
+Saffron
+Rosemary
+Sage
+Thyme
+Oregano
+Marjoram
+Bay leaves
+Paprika

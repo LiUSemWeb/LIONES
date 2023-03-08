@@ -1,0 +1,10 @@
+Margherita pizza
+Neapolitan pizza
+New York-style pizza
+Chicago-style pizza
+Sicilian pizza
+Greek pizza
+California-style pizza
+Detroit-style pizza
+St. Louis-style pizza
+White pizza

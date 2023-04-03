@@ -1,0 +1,159 @@
+Concept name:Stackingfault
+Axioms:
+Stackingfault is-a DefectType
+***********************************
+Concept name:LinearizedAugmentedPlaneWaveDensityFunctionalTheoryMethod
+Axioms:
+LinearizedAugmentedPlaneWaveDensityFunctionalTheoryMethod is-a DensityFunctionalTheoryMethod
+***********************************
+Concept name:FaceCenteredCubic
+Axioms:
+FaceCenteredCubic is-a BravaisLatticeType
+FaceCenteredCubic is-a CrystalStructureName
+***********************************
+Concept name:Nearestneighbor
+Axioms:
+Nearestneighbor is-a Structure
+***********************************
+Concept name:BodyCenteredCubic
+Axioms:
+BodyCenteredCubic is-a BravaisLatticeType
+BodyCenteredCubic is-a CrystalStructureName
+***********************************
+Concept name:Zincblende
+Axioms:
+Zincblende is-a CrystalStructureName
+***********************************
+Concept name:Rareearth
+Axioms:
+Rareearth is-a AtomicSpeciesType
+***********************************
+Concept name:HalfMetal
+Axioms:
+HalfMetal is-a ElectronicBandStructureFeature
+***********************************
+Concept name:ModifiedEmbeddedAtomMethod
+Axioms:
+ModifiedEmbeddedAtomMethod is-a DensityFunctionalTheoryMethod
+***********************************
+Concept name:Brillouinzone
+***********************************
+Concept name:LennardJonesPotential
+Axioms:
+LennardJonesPotential is-a InteractionPotential
+***********************************
+Concept name:RealSpaceDensityFunctionalTheoryMethod
+Axioms:
+RealSpaceDensityFunctionalTheoryMethod is-a DensityFunctionalTheoryMethod
+***********************************
+Concept name:Stone-WalesDefect
+Axioms:
+Stone-WalesDefect is-a DefectType
+***********************************
+Concept name:Rock-SaltStructure
+***********************************
+Concept name:ProjectorAugmentedWaveMethod
+Axioms:
+ProjectorAugmentedWaveMethod is-a DensityFunctionalTheoryMethod
+***********************************
+Concept name:DomainWall
+Axioms:
+DomainWall is-a DefectType
+***********************************
+Concept name:HomoLumoGap
+Axioms:
+HomoLumoGap is-a ElectronicBandStructureFeature
+***********************************
+Concept name:ModifiedBeckeJohnsonExchangeCorrelationenergyFunctional
+Axioms:
+ModifiedBeckeJohnsonExchangeCorrelationenergyFunctional is-a Perdew-Burke-ErnzerhofExchangeCorrelationEnergyFunctional
+***********************************
+Concept name:ConductionBand
+Axioms:
+ConductionBand is-a ElectronicBandStructureFeature
+***********************************
+Concept name:SlipPlane
+Axioms:
+SlipPlane is-a DefectType
+***********************************
+Concept name:ValenceBand
+Axioms:
+ValenceBand is-a ElectronicBandStructureFeature
+***********************************
+Concept name:Rutile
+Axioms:
+Rutile is-a CrystalStructureName
+***********************************
+Concept name:HexagonalClosePacked
+Axioms:
+HexagonalClosePacked is-a CrystalStructureName
+HexagonalClosePacked is-a BravaisLatticeType
+***********************************
+Concept name:MuffinTinOrbitalMethod
+Axioms:
+MuffinTinOrbitalMethod is-a DensityFunctionalTheoryMethod
+***********************************
+Concept name:DefectType
+Axioms:
+DefectType is-a CrystalStructureName
+***********************************
+Concept name:BravaisLatticeType
+***********************************
+Concept name:ElectronicBandStructureFeature
+Axioms:
+ElectronicBandStructureFeature is-a Property
+ElectronicBandStructureFeature is-a ElectronicStructureFeature
+***********************************
+Concept name:Kohn-ShamDensityFunctionalTheoryMethod
+Axioms:
+Kohn-ShamDensityFunctionalTheoryMethod is-a DensityFunctionalTheoryMethod
+***********************************
+Concept name:Perdew-Burke-ErnzerhofExchangeCorrelationEnergyFunctional
+Axioms:
+Perdew-Burke-ErnzerhofExchangeCorrelationEnergyFunctional is-a ExchangeCorrelationEnergyFunctional
+***********************************
+Concept name:CrystalStructureName
+***********************************
+Concept name:AtomicSpeciesType
+***********************************
+Concept name:InteractionPotential
+***********************************
+Concept name:ElectronicStructureFeature
+Axioms:
+ElectronicStructureFeature is-a Property
+***********************************
+Concept name:MaterialsProperty
+Axioms:
+MaterialsProperty is-a PhysicalProperty
+***********************************
+Concept name:Hardness-RelatedMaterialsProperties
+Axioms:
+Hardness-RelatedMaterialsProperties is-a MaterialsProperty
+***********************************
+Concept name:MaterialsStrength-RelatedProperties
+Axioms:
+MaterialsStrength-RelatedProperties is-a MaterialsProperty
+***********************************
+Concept name:MaterialsFatigue/Fracture-RelatedProperties
+Axioms:
+MaterialsFatigue/Fracture-RelatedProperties is-a MaterialsProperty
+***********************************
+Concept name:Battery-RelatedMaterialsProperties
+Axioms:
+Battery-RelatedMaterialsProperties is-a MaterialsProperty
+***********************************
+Concept name:Nanotube-RelatedMaterialsProperties
+Axioms:
+Nanotube-RelatedMaterialsProperties is-a MaterialsProperty
+***********************************
+Concept name:Solar-CellRelatedMaterialsProperties
+Axioms:
+Solar-CellRelatedMaterialsProperties is-a MaterialsProperty
+***********************************
+Concept name:PolarizationMaterialsProperties
+Axioms:
+PolarizationMaterialsProperties is-a MaterialsProperty
+***********************************
+Concept name:MagnetismMaterialsProperties
+Axioms:
+MagnetismMaterialsProperties is-a MaterialsProperty

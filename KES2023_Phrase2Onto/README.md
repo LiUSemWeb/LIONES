@@ -24,7 +24,7 @@
 	python ./p2o_main.py 
 
 ## User Manual
-* The user manual video is available as [Phrase2Onto_demo.mp4](https://github.com/LiUSemWeb/phrase2onto/blob/main/Phrase2Onto_demo.mp4).
+* The user manual video is available as [Phrase2Onto_demo.mp4](https://github.com/LiUSemWeb/phrase2onto/blob/main/KES2023_Phrase2Onto/Phrase2Onto_demo.mp4).
 
 ## Related Publications
 
